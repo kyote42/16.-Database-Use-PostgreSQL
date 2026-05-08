@@ -10,3 +10,4 @@
 13. MVP scope: Core features only
 13. MVP scope: Core features only
 Flow: Registration -> Email Verify -> Home
+API: Needs integration with Stripe
