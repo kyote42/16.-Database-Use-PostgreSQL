@@ -7,3 +7,4 @@
 14. Post-MVP: Mobile app version
 20. Feedback: Monthly user surveys
 11. Error handling: Show clear messages
+13. MVP scope: Core features only
