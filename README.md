@@ -14,3 +14,4 @@ API: Needs integration with Stripe
 19. SEO: Meta tags for landing page
 Target Audience: Tech startups
 User Story 1: As a user, I want to login
+Target Audience: Tech startups
