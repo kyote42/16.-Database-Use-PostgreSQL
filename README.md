@@ -9,3 +9,4 @@
 11. Error handling: Show clear messages
 13. MVP scope: Core features only
 13. MVP scope: Core features only
+Flow: Registration -> Email Verify -> Home
