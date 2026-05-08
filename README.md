@@ -5,3 +5,4 @@
 19. SEO: Meta tags for landing page
 15. Legal: Privacy policy link in footer
 14. Post-MVP: Mobile app version
+20. Feedback: Monthly user surveys
