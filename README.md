@@ -11,3 +11,4 @@
 13. MVP scope: Core features only
 Flow: Registration -> Email Verify -> Home
 API: Needs integration with Stripe
+19. SEO: Meta tags for landing page
