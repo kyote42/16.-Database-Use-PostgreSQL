@@ -16,3 +16,4 @@ Target Audience: Tech startups
 User Story 1: As a user, I want to login
 Target Audience: Tech startups
 Project Mission: Simplify task management
+API: Needs integration with Stripe
